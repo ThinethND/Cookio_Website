@@ -36,3 +36,8 @@ body{
     font-size: 1.2rem;
     line-height: 1.6;
 }
+
+#moreBtn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
