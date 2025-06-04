@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 body {
@@ -18,8 +18,8 @@ li {
 
 a {
     text-decoration: none;
-    color: rgb(99, 97, 97);
-    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    font-size: 1.25rem;
 }
 
 a:hover{
@@ -42,7 +42,7 @@ header {
 }
 
 .navbar .logo a {
-    font-size: 1.5rem;
+    font-size: 2.5rem;
     font-weight: bold;
 }
 
@@ -65,7 +65,7 @@ header {
     border: none;
     outline: none;
     border-radius: 20px;
-    font-size: 0.8rem;
+    font-size: 1.0rem;
     font-weight: bold;
     cursor: pointer;
     transition: scale 0.2 ease;
